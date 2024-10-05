@@ -26,8 +26,8 @@ Repeat steps 3 and 4: Iterate steps 3 and 4 until convergence. Convergence occur
 
 ## Program:
 
-# Developed by: JANARTHANAN K
-# RegisterNumber: 212223040072
+### Developed by: JANARTHANAN K
+### RegisterNumber: 212223040072
 
 ```
 /*
